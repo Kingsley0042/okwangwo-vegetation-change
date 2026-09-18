@@ -115,7 +115,7 @@ Further validation using independent reference or ground-truth data would improv
 
 ### NDVI Change 2020–2025
 
-![NDVI Change 2020–2025](Okwangwo_NDVI_Change_2020_2025.png)
+![NDVI Change 2020–2025](NDVI%20Change%202020%E2%80%932025.png)
 
 Red areas indicate a decrease in NDVI, while green areas indicate an increase.
 
