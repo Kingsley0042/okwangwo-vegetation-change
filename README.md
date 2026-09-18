@@ -112,6 +112,20 @@ Therefore, the detected areas are described as **potential vegetation loss** rat
 
 Further validation using independent reference or ground-truth data would improve confidence in the results.
 
+
+### NDVI Change 2020–2025
+
+![NDVI Change 2020–2025](Okwangwo_NDVI_Change_2020_2025.png)
+
+Red areas indicate a decrease in NDVI, while green areas indicate an increase.
+
+### Potential Vegetation Loss
+
+![Potential Vegetation Loss](Okwangwo_Potential_Vegetation_Loss.png)
+
+The red areas represent locations identified by the analysis as potential vegetation loss based on the NDVI change threshold.
+
+
 ## Purpose
 
 This project demonstrates a remote-sensing workflow for detecting vegetation change using freely available satellite imagery and cloud-based geospatial processing.
